@@ -37,6 +37,11 @@ h1 {
   position: relative;
 }*/
 
+.benefit{
+ letter-spacing: 1px;
+ margin: 50px auto;
+  line-height: 30px;}
+  
 .fbottom {
   background-color: lightgrey;
 }
