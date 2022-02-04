@@ -65,3 +65,31 @@ font-size: 20px;
 .tbottom{
 font-family: 'Allura',cursive;
 }
+
+/* Style the header with a grey background and some padding */
+.header-right {
+  overflow: hidden;
+  background-color: lightgrey;
+  padding: 10px 10px;
+  margin: 5px;
+}
+
+/* Style the header links */
+.header-right {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-family: Montserrat,monospace;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+a:hover {
+  color: hotpink;
+}
+a:link {
+text-decoration: none;
+color: BROWN;
+}
